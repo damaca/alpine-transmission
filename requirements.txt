@@ -1,0 +1,2 @@
+BeautifulSoup==3.2.1
+periscope==0.2.4
